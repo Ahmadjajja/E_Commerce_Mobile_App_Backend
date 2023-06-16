@@ -27,5 +27,6 @@ Authenticated users can initiate the purchase process through the frontend. The 
 
 These functionalities in the frontend are seamlessly integrated with the REST APIs implemented in this Node.js backend, enabling smooth user interactions, data retrieval, and processing for the e-commerce app.
 
+<hr />
 
 **[ Frontend_Eshop](https://github.com/Ahmadjajja/Frontend_Eshop)**
