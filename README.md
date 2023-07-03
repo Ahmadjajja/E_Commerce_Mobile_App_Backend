@@ -29,4 +29,4 @@ These functionalities in the frontend are seamlessly integrated with the REST AP
 
 <hr />
 
-**[ Frontend_Eshop](https://github.com/Ahmadjajja/Frontend_Eshop)**
+**[E_Commerce_Mobile_App_Frontend](https://github.com/Ahmadjajja/E_Commerce_Mobile_App_Frontend)**
